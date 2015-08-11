@@ -1,0 +1,9 @@
+﻿http://www.rcgroups.com/forums/showthread.php?t=666877
+Sau một ngày tìm hiểu, được mọi người hỗ trợ thì cũng sưu tầm đủ lý thuyết về motor 3 pha không chổi than
+ Rắc gì đâu ông, nếu theo Delta thì dựa vào số thanh nam châm, số cực stator ở bảng trên rồi quấn. 3 cụm dây tương ứng a,b,c. Chữ in và chữ thường sẽ là quấn ngược nhau. Ví dụ ở bảng trên quấn theo chuẩn của Delta đối với 12 stator bắt buộc phải là AabBCcaABbCc
+Khi đó quấn cụm dây thứ nhất ở vị trí stator 1 là A, nếu quấn cùng chiều kim đồng hồ thì dây thứ nhất ở vị trí stator thứ 2 phải quấn ngược chiều. Đến dây thứ hai ở vị trí stator thứ 3 phải quấn ngược chiều, dây thứ 2 ở vị trí stator thứ 4 quấn cùng chiều,.... cứ thế mà chiến 
+Muốn tăng công suất motor thì tăng đường kính dây 
+Muốn tăng hiệu suất motor thì phụ thuộc stator, số thanh nam châm, vòng dây quấn đều+ chặt hay không
+Muốn thay đổi số vòng tua (kv) thì dựa vào công thức 
+số vòng tua hiện tại/x= số vòng tua mong muốn/số vòng (turn) quấn trên một stator 
+Vậy x tìm đc chính là số turn quấn mới để đc vòng tua mới 
